@@ -1,13 +1,13 @@
-title: Rhiannon Payne
+title: Liz Lima
 description: > # this means to ignore newlines until "baseurl:"
   Rhiannon Payne is an SF-based entrepreneur, startup consultant, writer, & speaker. Currently writing a book on The New Distributed Workforce.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rhiannon-io.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lizlima.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: "https://twitter.com/rhiannon_io" #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Rhiannon Payne # add your name
+author: Liz Lima # add your name
 author-img: rhiannon payne headshot.jpg # add your photo
 about-author: I'm a San Francisco-based entrepreneur, startup consultant, writer, speaker, & adveturer. In 2017 I founded Sea Foam Media & Tech to help startups tell their stories & build useful products. I am passionate about The New Distributed Workforce, with a book to be published in 2020. # add description
 social-twitter: rhiannon_io # add your Twitter handle
@@ -17,7 +17,7 @@ social-linkedin: rhipayne # add your Linkedin handle
 social-email: payne@rhiannon.io # add your Email address
 
 # Disqus
-discus-identifier: Rhiannon Payne # add your discus identifier
+discus-identifier: Liz Lima # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
