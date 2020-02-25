@@ -1,0 +1,13 @@
+---
+layout: post
+title: 
+date: 2020-02-25 18:52
+category: 
+author: 
+tags: []
+summary: 
+---
+
+The <a href='http://jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf'>original paper</a> describes the working of t-SNE as:
+
+“t-Distributed stochastic neighbor embedding (t-SNE) minimizes the divergence between two distributions: a distribution that measures pairwise similarities of the input objects and a distribution that measures pairwise similarities of the corresponding low-dimensional points in the embedding”.
