@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Probability
-date: 2020-02-27 17:03
+date: 2018-02-27 17:03
 category: 
 author: 
 tags: [Probability]
